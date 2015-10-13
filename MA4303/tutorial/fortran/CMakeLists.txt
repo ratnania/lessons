@@ -2,6 +2,5 @@
 IF(BUILD_TESTING)
 	ADD_SUBDIRECTORY(1)
 ENDIF(BUILD_TESTING)
-ADD_SUBDIRECTORY(2)
 ##########################################################################
 
