@@ -1,0 +1,4 @@
+PROGRAM EX_1 
+IMPLICIT NONE
+   PRINT *, 'Hello From Fortran!' 
+END PROGRAM EX_1 
