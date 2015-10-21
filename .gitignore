@@ -6,5 +6,6 @@ Makefile
 CMakeCache.txt
 
 modules/
+Testing/
 bin/
 CMakeFiles/
